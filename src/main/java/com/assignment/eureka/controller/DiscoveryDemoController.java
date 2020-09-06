@@ -1,4 +1,4 @@
-package com.demo.eureka.controller;
+package com.assignment.eureka.controller;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
